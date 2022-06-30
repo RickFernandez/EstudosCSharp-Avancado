@@ -1,0 +1,15 @@
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\bin\Debug\net6.0\EstudosCSharp_Avançado.exe
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\bin\Debug\net6.0\EstudosCSharp_Avançado.deps.json
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\bin\Debug\net6.0\EstudosCSharp_Avançado.runtimeconfig.json
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\bin\Debug\net6.0\EstudosCSharp_Avançado.dll
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\bin\Debug\net6.0\EstudosCSharp_Avançado.pdb
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.csproj.AssemblyReference.cache
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.AssemblyInfoInputs.cache
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.AssemblyInfo.cs
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.csproj.CoreCompileInputs.cache
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.dll
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\refint\EstudosCSharp_Avançado.dll
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.pdb
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\EstudosCSharp_Avançado.genruntimeconfig.cache
+E:\Users\rickf\EstudosC#\EstudosC#Avançado-Bradesco\EstudosCSharp_Avançado\EstudosCSharp_Avançado\obj\Debug\net6.0\ref\EstudosCSharp_Avançado.dll
